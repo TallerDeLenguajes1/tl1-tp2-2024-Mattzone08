@@ -1,0 +1,10 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+
+No lo puedo ver, pues este al pertenercer al otra rama (opcion_2) y yo haberme devuelto a la rama principal (main) el sistema oculta estos archivos asi no son visibles para nosotros.
+
+Vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+
+Al realizar el commit del archivo respuestas.txt y ejecutar el comando gitk --all puedo visualizar al ultimo commit realizado donde solo esta el archivo de texto a diferencia del primer commit en donde estan todos los archivos que ya fueron enviados al repositorio
+
+Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+
