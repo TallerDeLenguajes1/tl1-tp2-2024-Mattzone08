@@ -4,7 +4,8 @@ No lo puedo ver, pues este al pertenercer al otra rama (opcion_2) y yo haberme d
 
 Vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
 
-Al realizar el commit del archivo respuestas.txt y ejecutar el comando gitk --all puedo visualizar al ultimo commit realizado donde solo esta el archivo de texto a diferencia del primer commit en donde estan todos los archivos que ya fueron enviados al repositorio
+Al realizar el commit del archivo respuestas.txt y ejecutar el comando gitk --all puedo visualizar al ultimo commit realizado donde solo esta el archivo de texto a diferencia del primer commit en donde estan todos los archivos que ya fueron enviados al repositorio.
 
 Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
 
+Una vez realizado el merge se conmbinaron la rama 2 con la principal y ahora puedo visualizar los archivos que antes por estar en otro rama no era capaz de verlos ni usarlos a menos de moverme a la rama que los contenga.
